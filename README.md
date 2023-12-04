@@ -1,13 +1,7 @@
  ## Ujamaa Springs – Pioneering Water Accessibility through Machine Learning 
 
-
-<p float="left">
-  <img src="Tanzania_Flag.jpg" width="100" />
-  <img src="Joy.jpg" width="100" /> 
-</p>
-
-
-
+![Alt Text](Tanzania Flag.jpg)
+![Alt Text](Joy.jpg)
 
 
 
