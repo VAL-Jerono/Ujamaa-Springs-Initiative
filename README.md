@@ -1,8 +1,9 @@
  ## Ujamaa Springs – Pioneering Water Accessibility through Machine Learning 
- 
-![Alt Text](C:/Users/user/OneDrive/Desktop/Class.dsc/Notebooks - ML/Tanzania/Ujamaa-Springs-Initiative/Tanzania_Flag.jpg)
-![Alt Text](C:/Users/user/OneDrive/Desktop/Class.dsc/Notebooks - ML/Tanzania/Ujamaa-Springs-Initiative/Joy.jpg)
 
+<p float="left">
+  <img src="Tanzania_Flag.jpg" width="100" />
+  <img src="Joy.jpg" width="100" /> 
+</p>
 
    
    
